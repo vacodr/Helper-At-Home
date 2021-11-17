@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Carpenter",
+        "description": "Get upto 50% off on your first booking",
+        "category": "best-service",
+        "img": "https://i.ibb.co/C88dWs9/carpainter.jpg"
+    },
+    {
+        "title": "Maid",
+        "description": "Get 1 week free trial",
+        "category": "best-service",
+        "img": "https://i.ibb.co/nCfQwVB/maid-ill.jpg"
+    },
+    {
+        "title": "Saloon",
+        "description": "Get upto 30% off on your first booking",
+        "category": "best-service",
+        "img": "https://i.ibb.co/47z6rCW/saloon.jpg"
+    },
+    {
+        "title": "Cook",
+        "description": "Looking for a look? Take a look here",
+        "category": "household-service",
+        "img": "https://i.ibb.co/9vpDHXx/cook.jpg"
+    },
+    {
+        "title": "Plumber",
+        "description": "Leaky pipes or clogged sink? Mend it in one click",
+        "category": "household-service",
+        "img": "https://i.ibb.co/4SxyF05/plumb.jpg"
+    },
+    {
+        "title": "Maid",
+        "description": "Book a house maid in just one click",
+        "category": "household-service",
+        "img": "https://i.ibb.co/4WVz2Nv/maid.jpg"
+    },
+    {
+        "title": "Construction",
+        "description": "Want to renovate your place? Come hither",
+        "category": "professional-service",
+        "img": "https://i.ibb.co/Wx28nG9/const.jpg"
+    },
+    {
+        "title": "Electrician",
+        "description": "Book an electrician here",
+        "category": "professional-service",
+        "img": "https://i.ibb.co/NYLts57/elec2.jpg"
+    },
+    {
+        "title": "Mechanic",
+        "description": "Here's the motor-master",
+        "category": "professional-service",
+        "img": "https://i.ibb.co/bNPqwKC/mech.jpg"
+    },
+    {
+        "title": "Mason",
+        "description": "Experienced Mason to mend your walls",
+        "category": "professional-service",
+        "img": "https://i.ibb.co/0FH1ssG/mason.jpg"
+    }
+]
