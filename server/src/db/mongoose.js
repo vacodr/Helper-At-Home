@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 require("dotenv").config();
 
 mongoose
-	.connect("mongodb://localhost/HelpersAtHome", {
+	.connect("mongodb+srv://user123:vaibhav123@cluster0.fjh40.mongodb.net/HelpersAtHome?retryWrites=true&w=majority", {
 		useNewUrlParser: true,
 		useUnifiedTopology: true,
 		autoIndex: true, // helpes to get rid of unique property problem in mongoose schema

@@ -36,8 +36,8 @@ import image3 from "./assets/image 1 (2).jpg";
 import MainCarousel from "./components/set_preferences/MainCarousel";
 import SetPreferences from "./components/set_preferences/SetPreferences";*/
 
- export const SERVER_BASE_URL = "http://localhost:5000"
-//export const SERVER_BASE_URL = 'https://worker-customer.herokuapp.com'
+ //export const SERVER_BASE_URL = "http://localhost:5000"
+export const SERVER_BASE_URL = 'https://helpers-at-home.herokuapp.com/'
 
 function App() {
 	return (
