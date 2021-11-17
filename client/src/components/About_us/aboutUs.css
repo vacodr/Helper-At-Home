@@ -1,0 +1,27 @@
+.custom-container {
+  background-color: #4056a1;
+  border-radius: 10px;
+}
+.main-container-heading {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.title {
+  text-align: justify;
+}
+.linechart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.card-container-heading {
+  margin: 40px 0px;
+  text-align: center;
+  margin-top: 40px;
+}
+.card-container {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
